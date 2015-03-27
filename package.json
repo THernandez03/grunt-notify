@@ -35,7 +35,6 @@
     "grunt-release": "^0.7.0",
     "grunt-templates-dylang": "^1.0.0",
     "load-grunt-tasks": "^1.0.0",
-    "node-snarl": "git+https://github.com/THernandez03/node-snarl.git",
     "proxyquire": "^1.0.1",
     "time-grunt": "^1.0.0"
   },
@@ -58,6 +57,7 @@
   "dependencies": {
     "semver": "^4.1.0",
     "stack-parser": "~0.0.1",
+    "node-snarl": "git+https://github.com/THernandez03/node-snarl.git",
     "which": "~1.0.5"
   }
 }
